@@ -9,6 +9,6 @@ For each individual, the analysis will aim to answer questions suchs as: What ar
 
 # Data Sets
 * [Trump](https://www.kaggle.com/austinreese/trump-tweets)
-* [Obama]https://www.kaggle.com/datacrux/barack-obama-twitterdata-from-20122019)
-* [S&P 500](!https://www.kaggle.com/camnugent/sandp500)
-* [VIX (secondary)](!https://www.kaggle.com/lp187q/vix-index-until-jan-202018)
+* [Obama](https://www.kaggle.com/datacrux/barack-obama-twitterdata-from-20122019)
+* [S&P 500](https://www.kaggle.com/camnugent/sandp500)
+* [VIX (secondary)](https://www.kaggle.com/lp187q/vix-index-until-jan-202018)
