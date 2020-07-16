@@ -7,6 +7,26 @@ This is a visual summary of twitter vocabulary of the personal accounts of two U
 
 For each individual, the analysis will aim to answer questions suchs as: What are his most frequently used words? Which words does he like to go all-caps on? How does his choice of word(s) change over time? Do any of the trends in his vocabulary coincide with his life events (e.g., lawsuits, political activity, economic indeces)? 
 
+# Project Planning
+|  Day | Deliverable | Status
+|---|---| ---|
+|Thursday, July 16| Project Description | Complete
+|Thursday, July 16| Priority Matrix / Timeline | Complete
+|Saturday, July 18| Basic data cleaning | Incomplete
+|Saturday, July 18| Planning/choosing visuals | Incomplete
+|Sunday, July 19| Plot-ready dataframes | Incomplete
+|Tuesday, July 21| Data visualizations | Incomplete
+|Wednesday, July 22| Economic Data Layer | Incomplete
+|Wednesday, July 22| Insights commentary | Incomplete
+
+#### MVP
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Initial cleaning of datasets | M | 2hr | -hr | -hr|
+| Plots to show word/phrase use | L | 4H | -hr | -hr|
+| Additional plots to layer Economic | L | 4H | -hr | -hr|
+| Total | H | 10hrs| -hr | -hr |
+
 # Data Sets
 * [Trump](https://www.kaggle.com/austinreese/trump-tweets)
 * [Obama](https://www.kaggle.com/datacrux/barack-obama-twitterdata-from-20122019)
