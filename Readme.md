@@ -1,7 +1,3 @@
-### Presidents Talk
-*The indoctrination is so deep that educated people think they’re being objective.*
- Noam Chomsky
-
 # Overview
 This is a visual summary of twitter vocabulary of the personal accounts of two US presidents (Donald Trump and Barack Obama). The goal is to compare the language of choice of each person and observe where these differences and similarities reflect their political affiliation, economic trends, as well as the American culture. 
 
