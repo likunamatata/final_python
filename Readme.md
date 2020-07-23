@@ -22,10 +22,10 @@ For each individual, the analysis will aim to answer questions suchs as: What ar
 #### MVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Initial cleaning of datasets | M | 2hr | -hr | -hr|
-| Plots to show word/phrase use | L | 4H | -hr | -hr|
-| Additional plots to layer Economic | L | 4H | -hr | -hr|
-| Total | H | 10hrs| -hr | -hr |
+| Initial cleaning of datasets | M | 2hr | 2hr | 2hr|
+| Plots to show word/phrase use | L | 4H | 5hr | 5hr|
+| Additional plots to layer Economic | L | 4H | 1hr | 1hr|
+| Total | H | 10hrs| 8hr | 8hr |
 
 # Data Sets
 * [Trump](https://www.kaggle.com/austinreese/trump-tweets)
