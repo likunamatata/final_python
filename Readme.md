@@ -1,5 +1,5 @@
 ### Presidents Talk
-*The indoctrination is so deep that educated people think they’re being objective.*
+The indoctrination is so deep that educated people think they’re being objective.*
 - Noam Chomsky
 
 # Overview
@@ -12,12 +12,12 @@ For each individual, the analysis will aim to answer questions suchs as: What ar
 |---|---| ---|
 |Thursday, July 16| Project Description | Complete
 |Thursday, July 16| Priority Matrix / Timeline | Complete
-|Saturday, July 18| Basic data cleaning | Incomplete
-|Saturday, July 18| Planning/choosing visuals | Incomplete
-|Sunday, July 19| Plot-ready dataframes | Incomplete
-|Tuesday, July 21| Data visualizations | Incomplete
-|Wednesday, July 22| Economic Data Layer | Incomplete
-|Wednesday, July 22| Insights commentary | Incomplete
+|Saturday, July 18| Basic data cleaning | Complete
+|Saturday, July 18| Planning/choosing visuals | Complete
+|Sunday, July 19| Plot-ready dataframes | Complete
+|Tuesday, July 21| Data visualizations | Complete
+|Wednesday, July 22| Economic Data Layer | Complete
+|Wednesday, July 22| Insights commentary | Complete
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
